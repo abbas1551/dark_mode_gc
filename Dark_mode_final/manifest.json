@@ -1,7 +1,7 @@
 {
     "name":"Dark Mode by Abbas",
     "version":"1.0.0.0",
-    "description":"This extension lets users change the background of the website codeforces and google classroom according to their preference",
+    "description":"This extension changes the theme of google classroom to dark.",
     "manifest_version":3,
     "action":{
         "default_icon":"icon.png",
