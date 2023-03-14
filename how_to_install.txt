@@ -1,5 +1,5 @@
-open chrome://extensions/
-enable developer
+open chrome://extensions/ or brave://extensions/ if you use brave
+enable developer which is on top right corner
 click on load package
 locate Dark_mode_final on your computer and select it
 The extension is up and running.
