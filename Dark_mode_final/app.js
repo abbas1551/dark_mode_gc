@@ -25,7 +25,7 @@ if (site.includes("classroom.google.com")){
       }
         
       .n4xnA, QRiHXd {
-        background-color: #303364; /**/
+        background-color: #1F1F1F; /**/
         
       }
 
@@ -33,7 +33,7 @@ if (site.includes("classroom.google.com")){
         background-color: black;/*top bar*/
     }
     .OX4Vcb{
-        background-color: #1C0036;/*slider bar*/
+        background-color: #393939;/*slider bar*/
     }
     .YVvGBb{
         color : white;/*text1*/
