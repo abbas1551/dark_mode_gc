@@ -80,7 +80,15 @@ if (site.includes("classroom.google.com")){
     .bswVrf.Lzdwhd-BrZSOd{
         color: grey;
     }
-
+    .d4Fe0d.LBlAUc{
+        background-color: #191919;/*upcomming*/
+    } 
+    .EZrbnd.sxa9Pc{
+        color:lavender;/*upcomming*/
+    }
+    .nforOe{
+        color:lightgrey;/*upcomming*/
+    }
       
     `)
 }
